@@ -1,0 +1,33 @@
+# Core framework
+streamlit==1.35.0
+
+# Data handling and visualization
+pandas==2.2.2
+matplotlib==3.9.0
+seaborn==0.13.2
+
+# Database connectivity for SQL Server
+pyodbc==5.1.0
+
+# LLM & RAG support
+langchain==0.1.17
+huggingface_hub==0.23.2
+
+# Utility
+python-dotenv==1.0.1
+
+passlib[bcrypt]
+
+pdf2image
+
+easyocr
+
+langchain-huggingface
+
+ploty
+
+pypdf
+
+faiss-cpu
+
+sentence-transformers==5.1.0
