@@ -24,7 +24,7 @@ easyocr
 
 langchain-huggingface
 
-ploty
+plotly
 
 pypdf
 
